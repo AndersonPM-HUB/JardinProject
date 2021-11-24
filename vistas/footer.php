@@ -2,7 +2,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 0.1.2
     </div>
-    <strong>Copyright &copy; LICEO LA PRESENTACIÓN</strong> Todo los derechos
+    <strong>Copyright &copy; Mis primeros pasos</strong> Todo los derechos
     reservados.
   </footer>
 

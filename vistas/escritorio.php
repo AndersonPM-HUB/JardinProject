@@ -21,8 +21,8 @@ $user_id=$_SESSION["idusuario"];
  ?>
     <div class="content-wrapper">
     <!-- Main content -->
-    <section class="content" style="background-color: #fff">
-<div align="center"><img id="escudo" src="../public/img/Escudo.png" alt="Escudo"><h1>LICEO LA PRESENTACIÓN</h1><br/><p>Educación integral para todos</p></div>
+    <section class="content" style="background-image : url(https://img.freepik.com/vector-gratis/patron-colorido-dibujo-infantil_23-2147532715.jpg?size=338&ext=jpg)">
+<div align="center"><img id="escudo" src="https://semillitasbilingue.edu.co/wp-content/uploads/2019/07/blog_1-6.jpg"  alt="Escudo" width="500px"><h1 style="background-color : #fff">Mis Primeros Pasos</h1><br/><h3 style="background-color : #fff">Educación integral para todos</h3></div>
       <!-- Default box -->
       <div class="row">
         <div class="col-md-12">
