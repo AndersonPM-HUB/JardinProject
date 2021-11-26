@@ -37,7 +37,7 @@ $id = $row[0];
     </head>
 </head>
 
-<body>
+<body style="background-image: url(https://fondosmil.com/fondo/1937.jpg);">
     <nav class="navbar navbar-expand-lg navbar-light blue fixed-top">
         <button id="sidebarCollapse" class="btn navbar-btn">
             <i class="fas fa-lg fa-bars"></i>
@@ -89,7 +89,7 @@ $id = $row[0];
 
         <div class="contenedor" id="content">
 
-            <table border="1" id="notas">
+            <table border="1" id="notas" style="background-color:white;">
 
                 <tr>
                     <th>ASIGNATURA</th>

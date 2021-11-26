@@ -29,7 +29,7 @@ if ($validar==null || $validar = '') {
 
     <title>Plataforma</title>
   </head>
-  <body>
+  <body style="background-image: url(https://fondosmil.com/fondo/1937.jpg);">
 
   <nav class="navbar navbar-expand-lg navbar-light blue fixed-top">
     <button id="sidebarCollapse" class="btn navbar-btn">
@@ -79,9 +79,10 @@ if ($validar==null || $validar = '') {
       </ul>
     </nav>
 
-    <div class="contenedor" id="content">
+    <div class="contenedor" id="content" style="text-align:center">
 
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+    <h1 style="font-family: cursive;">Este es un espacio para disfrutar del Aprendizaje</h1>
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel" style="width: 800px; margin-left: 10%">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -119,6 +120,7 @@ if ($validar==null || $validar = '') {
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+<p>Ultimas Noticias</p>
   </div>
 
 

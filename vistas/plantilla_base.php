@@ -30,7 +30,7 @@ if ($validar==null || $validar = '') {
 
     <title>Plataforma</title>
   </head>
-  <body>
+  <body style="background-image: url(https://fondosmil.com/fondo/1937.jpg);">
 
   <nav class="navbar navbar-expand-lg navbar-light blue fixed-top">
     <button id="sidebarCollapse" class="btn navbar-btn">
